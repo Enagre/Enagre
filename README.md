@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Enagre
-- 👀 I’m interested in programme
-- 🌱 I’m currently learning ofppt
-- 💞️ I’m looking to collaborate on add
+- 👋 Hi, I’m @med
+
 
 <!---
 Enagre/Enagre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
